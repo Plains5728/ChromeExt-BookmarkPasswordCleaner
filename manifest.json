@@ -1,4 +1,3 @@
-// manifest.json
 {
     "manifest_version": 3,
     "name": "Bookmark Cleanup Manager",
@@ -7,7 +6,6 @@
     "permissions": [
       "bookmarks",
       "storage",
-      
       "tabs"
     ],
     "host_permissions": [
